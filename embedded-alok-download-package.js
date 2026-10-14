@@ -1,6 +1,6 @@
 (() => {
- const prefixes={'android-normal':'FISH MOD Z ALOK THỨC TỈNH ADR FFTH','android-max':'FISH MOD Z ALOK THỨC TỈNH ADR FFM','ios-normal':'FISH MOD Z ALOK THỨC TỈNH IOS FFTH','ios-max':'FISH MOD Z ALOK THỨC TỈNH IOS FFM'};
- const copyrightName="Bản quyền mod thuộc về FISH MOD Z - MOD SKIN FF.TXT";
+ const prefixes={'android-normal':'TManh ios MOD Z ALOK THỨC TỈNH ADR FFTH','android-max':'TManh ios MOD Z ALOK THỨC TỈNH ADR FFM','ios-normal':'TManh ios MOD Z ALOK THỨC TỈNH IOS FFTH','ios-max':'TManh ios MOD Z ALOK THỨC TỈNH IOS FFM'};
+ const copyrightName="Bản quyền mod thuộc về TManh ios MOD Z - MOD SKIN FF.TXT";
  const copyrightBytes=Uint8Array.from(atob("QuG6o24gcXV54buBbiBtb2QgdGh14buZYyB24buBIEZJU0ggTU9EIFogLSBNT0QgU0tJTiBGRiA="),c=>c.charCodeAt(0));
  const usedCodes=new Set();
  let lastCode;try{lastCode=localStorage.getItem("alok-last-export-code");}catch{}
